@@ -8,7 +8,7 @@ tags: [security, appsec, fundamentals, cybersecurity, development, protection, s
 image: /assets/img/ssd-lifecycle.webp 
 ---
 
-![Application Security Overview]({{ site.baseurl }}image: /assets/img/ssd-lifecycle.webp )
+![Application Security Overview]({{ site.baseurl }}/assets/img/ssd-lifecycle.webp)
 
 In today's hyper-connected digital landscape, software applications have become the backbone of almost every interaction and operation, from personal communication to complex enterprise systems. This pervasive presence means that securing these applications is not just an option, but an absolute necessity. A single vulnerability can lead to devastating data breaches, financial losses, and irreparable damage to reputation. This post will delve into the fundamental concepts of application security, highlighting its importance and the crucial approach of "shifting left."
 
