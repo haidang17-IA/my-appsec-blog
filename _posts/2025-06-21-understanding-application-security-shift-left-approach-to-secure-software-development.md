@@ -2,10 +2,10 @@
 layout: post
 title: "Understanding Application Security: A Shift-Left Approach to Secure Software Development"
 author: "Hai Dang"
-date: 2025-06-20 23:55:00 +0700
+date: 2025-06-21 23:55:00 +0700
 categories: [security, application-security, fundamentals, cybersecurity, ssd, shift-left]
 tags: [security, appsec, fundamentals, cybersecurity, development, protection, sdlc, shift-left, secure-coding, testing]
-image: /assets/img/ssd-lifecycle.webp 
+
 ---
 
 ![Application Security Overview]({{ site.baseurl }}/assets/img/ssd-lifecycle.webp)
